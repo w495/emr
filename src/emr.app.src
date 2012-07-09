@@ -1,0 +1,12 @@
+{application, emr, [
+    {description, "Simple MapReduce implementation in Erlang"},
+    {vsn, "0.0.1"},
+    {modules, [
+        emr_seq,
+        emr
+    ]},
+    {registered, []}
+]}.
+
+
+
